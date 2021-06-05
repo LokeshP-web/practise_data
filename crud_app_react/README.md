@@ -1,3 +1,7 @@
+Youtube:
+https://www.youtube.com/watch?v=re3OIOr9dJI
+
+
 create two folders 
 client and server
 cd client
@@ -15,3 +19,6 @@ npm install mysql
 npm install nodemon
 modify package.json > scripts to 
 "start": "node index.js"
+"devStart":"nodemon index.js"
+
+npm run devStart
