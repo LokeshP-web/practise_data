@@ -5,7 +5,7 @@ import ClickEventOneIncrement from "./components/OneIncrement"
 import ClickEventMoreIncrement from "./components/MoreIncrement";
 import ClickButtonTextChange from "./components/TextChangeButtonClick"
 import ClickGetProfile from "./components/GithubProfilesDisplay"
-import ClickGetAPIProfile from "./components/githubapifiles/GithubAPIProfilesDisplay"
+import ClickGetAPIProfile from "./components/githubapifiles_dynamic/GithubAPIProfilesDisplay"
 import VisualTime from "./components/TimeOnScreen"
 const testData = [
   {name: "Dan Abramov", avatar_url: "https://avatars0.githubusercontent.com/u/810438?v=4", company: "@facebook"},
